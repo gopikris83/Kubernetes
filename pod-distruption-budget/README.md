@@ -1,6 +1,6 @@
-# follow below steps to replicate 
+# Below steps to replicate 
 
-to know more about PodDisruptionBudget refer - 
+To know or play around with PodDisruptionBudget refer below steps 
 
 ## kubectl get all
 ```
